@@ -1,0 +1,108 @@
+Created At: 2026-07-13T06:22:29Z
+Completed At: 2026-07-13T06:22:29Z
+File Path: `file:///d:/MUSIC%20EXPERIMENT/aura-music/src/App.tsx`
+Total Lines: 2442
+Total Bytes: 121899
+Showing lines 1 to 100
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: import { useState, useEffect, useRef } from 'react';
+2: import { motion, AnimatePresence } from 'motion/react';
+3: import {
+4:   Home,
+5:   Compass,
+6:   Search,
+7:   Library,
+8:   Sparkles,
+9:   Settings,
+10:   Plus,
+11:   Play,
+12:   Pause,
+13:   SkipForward,
+14:   SkipBack,
+15:   Heart,
+16:   Volume2,
+17:   Download,
+18:   Clock,
+19:   User,
+20:   Music,
+21:   ArrowRight,
+22:   ArrowUpRight,
+23:   Maximize2,
+24:   Trash2,
+25:   Share2,
+26:   MoreVertical,
+27:   Check,
+28:   Disc3,
+29:   ListMusic,
+30:   Mic,
+31:   Menu,
+32:   Shuffle,
+33:   ChevronLeft,
+34:   ChevronUp,
+35:   ChevronDown,
+36:   Edit,
+37:   Upload
+38: } from 'lucide-react';
+39: import { Track, Playlist, HistoryItem, UserSettings } from './types';
+40: import DynamicIsland from './components/DynamicIsland';
+41: import ContextMenu from './components/ContextMenu';
+42: import AuraAI from './components/AuraAI';
+43: import ApplePlayer from './components/ApplePlayer';
+44: import MenuDrawer from './components/MenuDrawer';
+45: 
+46: // Declare YT global variables
+47: declare global {
+48:   interface Window {
+49:     onYouTubeIframeAPIReady?: () => void;
+50:     YT?: any;
+51:     YTPlayer?: any;
+52:   }
+53: }
+54: 
+55: export default function App() {
+56:   // Navigation & Page State
+57:   const [activeTab, setActiveTab] = useState<'home' | 'browse' | 'search' | 'library' | 'settings' | 'ai' | 'artist' | 'album'>('home');
+58:   const [selectedArtist, setSelectedArtist] = useState<{ name: string; bio: string; cover: string } | null>(null);
+59:   const [selectedAlbum, setSelectedAlbum] = useState<{ id: string; name: string; artist: string; coverUrl: string; tracks: Track[] } | null>(null);
+60: 
+61:   // Music Player Core State
+62:   const [currentTrack, setCurrentTrack] = useState<Track | null>(null);
+63:   const [isPlaying, setIsPlaying] = useState(false);
+64:   const [currentTime, setCurrentTime] = useState(0);
+65:   const [volume, setVolume] = useState(80);
+66:   const [queue, setQueue] = useState<Track[]>([]);
+67:   const [history, setHistory] = useState<HistoryItem[]>([]);
+68:   const [favorites, setFavorites] = useState<Track[]>([]);
+69:   const [shuffle, setShuffle] = useState(false);
+70:   const [repeatMode, setRepeatMode] = useState<'off' | 'all' | 'one'>('off');
+71:   const [speed, setSpeed] = useState(1);
+72:   const [isPlayerMaximized, setIsPlayerMaximized] = useState(false);
+73: 
+74:   // Library & Playlist States
+75:   const [playlists, setPlaylists] = useState<Playlist[]>([]);
+76:   const [selectedPlaylist, setSelectedPlaylist] = useState<Playlist | null>(null);
+77:   const [playlistAutoplay, setPlaylistAutoplay] = useState(true);
+78:   const [showCreatePlaylistModal, setShowCreatePlaylistModal] = useState(false);
+79:   const [showEditCoverModal, setShowEditCoverModal] = useState(false);
+80:   const [customCoverUrl, setCustomCoverUrl] = useState('');
+81:   const [newPlaylistName, setNewPlaylistName] = useState('');
+82:   const [newPlaylistDesc, setNewPlaylistDesc] = useState('');
+83:   const [downloads, setDownloads] = useState<Track[]>([]);
+84: 
+85:   // Search Page States
+86:   const [searchQuery, setSearchQuery] = useState('');
+87:   const [displayedSearchQuery, setDisplayedSearchQuery] = useState('');
+88:   const [searchResults, setSearchResults] = useState<Track[]>([]);
+89:   const [isSearching, setIsSearching] = useState(false);
+90:   const [recentSearches, setRecentSearches] = useState<string[]>(['Lofi study beats', 'The Weeknd Blinding Lights', 'Interstellar Soundtracks']);
+91: 
+92:   // Mobile Menu Drawer State
+93:   const [isMenuOpen, setIsMenuOpen] = useState(false);
+94: 
+95:   // Context Menu State
+96:   const [contextMenu, setContextMenu] = useState<{ x: number; y: number; track: Track } | null>(null);
+97: 
+98:   // App Level Settings State
+99:   const [settings, setSettings] = useState<UserSettings>({
+100:     darkMode: true,
+The above content does NOT show the entire file contents. If you need to view any lines of the file which were not shown to complete your task, call this tool again to view those lines.
