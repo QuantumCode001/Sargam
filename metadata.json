@@ -1,0 +1,6 @@
+{
+  "name": "Aura Music",
+  "description": "A premium, Apple Music-inspired progressive web application featuring high-fidelity playback, customized glassmorphic design, and the Aura AI assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
