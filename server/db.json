@@ -1,0 +1,1077 @@
+{
+  "playlists": [
+    {
+      "id": "p1",
+      "name": "Aura Essentials",
+      "description": "The absolute best tracks curated by Aura AI to jumpstart your premium listening experience.",
+      "coverUrl": "/playlist_cover_3.jpg",
+      "isPinned": true,
+      "isCollaborative": false,
+      "tracks": [
+        {
+          "id": "jfKfPfyJRdk",
+          "title": "Lofi Hip Hop Radio 🌌 Beats to Relax/Study",
+          "artist": "Lofi Girl",
+          "album": "Lofi Study Beats",
+          "coverUrl": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=400&q=80",
+          "duration": 1800,
+          "genre": "Lofi / Chill",
+          "mood": "focus",
+          "youtubeId": "jfKfPfyJRdk"
+        },
+        {
+          "id": "5qap5aO4i9A",
+          "title": "Lofi Hip Hop Radio 🎧 Beats to Sleep/Chill",
+          "artist": "Lofi Girl",
+          "album": "Lofi Sleep Beats",
+          "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&q=80",
+          "duration": 1800,
+          "genre": "Lofi / Ambient",
+          "mood": "sleep",
+          "youtubeId": "5qap5aO4i9A"
+        },
+        {
+          "id": "fHI8X4OXluQ",
+          "title": "Blinding Lights",
+          "artist": "The Weeknd",
+          "album": "After Hours",
+          "coverUrl": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=400&q=80",
+          "duration": 200,
+          "genre": "Synthwave / Pop",
+          "mood": "workout",
+          "youtubeId": "fHI8X4OXluQ"
+        },
+        {
+          "id": "h5v3kOTU6s8",
+          "title": "Starboy",
+          "artist": "The Weeknd ft. Daft Punk",
+          "album": "Starboy",
+          "coverUrl": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=400&q=80",
+          "duration": 230,
+          "genre": "R&B / Electronic",
+          "mood": "energy",
+          "youtubeId": "49ko3_1"
+        },
+        {
+          "id": "kJQP7kiw5Fk",
+          "title": "Despacito",
+          "artist": "Luis Fonsi ft. Daddy Yankee",
+          "album": "Vida",
+          "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&q=80",
+          "duration": 228,
+          "genre": "Latin Pop",
+          "mood": "party",
+          "youtubeId": "kJQP7kiw5Fk"
+        },
+        {
+          "id": "09R8_2nJtjg",
+          "title": "Sugar",
+          "artist": "Maroon 5",
+          "album": "V",
+          "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&q=80",
+          "duration": 235,
+          "genre": "Pop",
+          "mood": "party",
+          "youtubeId": "09R8_2nJtjg"
+        }
+      ],
+      "createdAt": "2026-07-11T07:40:55.767Z"
+    },
+    {
+      "id": "p2",
+      "name": "Midnight Focus Room",
+      "description": "Keep your flow state locked with high-fidelity atmospheric ambient loops and study beats.",
+      "coverUrl": "/playlist_cover_12.jpg",
+      "isPinned": true,
+      "isCollaborative": true,
+      "tracks": [
+        {
+          "id": "5qap5aO4i9A",
+          "title": "Lofi Hip Hop Radio 🎧 Beats to Sleep/Chill",
+          "artist": "Lofi Girl",
+          "album": "Lofi Sleep Beats",
+          "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&q=80",
+          "duration": 1800,
+          "genre": "Lofi / Ambient",
+          "mood": "sleep",
+          "youtubeId": "5qap5aO4i9A"
+        },
+        {
+          "id": "v2AC41dglnM",
+          "title": "Interstellar Soundtrack (Main Theme)",
+          "artist": "Hans Zimmer",
+          "album": "Interstellar OST",
+          "coverUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80",
+          "duration": 240,
+          "genre": "Classical / Cinematic",
+          "mood": "focus",
+          "youtubeId": "v2AC41dglnM"
+        },
+        {
+          "id": "CevxZvSJLk8",
+          "title": "Weightless (Official 10-Hour Loop)",
+          "artist": "Marconi Union",
+          "album": "Weightless",
+          "coverUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&q=80",
+          "duration": 600,
+          "genre": "Ambient / Soundscape",
+          "mood": "sleep",
+          "youtubeId": "CevxZvSJLk8"
+        }
+      ],
+      "createdAt": "2026-07-11T07:40:55.767Z"
+    },
+    {
+      "id": "p3",
+      "name": "Hyper Energy Mix",
+      "description": "Uplifting synthwave and pop anthems designed to power up your active routines and workouts.",
+      "coverUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600&q=80",
+      "isPinned": false,
+      "isCollaborative": false,
+      "tracks": [
+        {
+          "id": "fHI8X4OXluQ",
+          "title": "Blinding Lights",
+          "artist": "The Weeknd",
+          "album": "After Hours",
+          "coverUrl": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=400&q=80",
+          "duration": 200,
+          "genre": "Synthwave / Pop",
+          "mood": "workout",
+          "youtubeId": "fHI8X4OXluQ"
+        },
+        {
+          "id": "h5v3kOTU6s8",
+          "title": "Starboy",
+          "artist": "The Weeknd ft. Daft Punk",
+          "album": "Starboy",
+          "coverUrl": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=400&q=80",
+          "duration": 230,
+          "genre": "R&B / Electronic",
+          "mood": "energy",
+          "youtubeId": "49ko3_1"
+        },
+        {
+          "id": "kJQP7kiw5Fk",
+          "title": "Despacito",
+          "artist": "Luis Fonsi ft. Daddy Yankee",
+          "album": "Vida",
+          "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&q=80",
+          "duration": 228,
+          "genre": "Latin Pop",
+          "mood": "party",
+          "youtubeId": "kJQP7kiw5Fk"
+        },
+        {
+          "id": "09R8_2nJtjg",
+          "title": "Sugar",
+          "artist": "Maroon 5",
+          "album": "V",
+          "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&q=80",
+          "duration": 235,
+          "genre": "Pop",
+          "mood": "party",
+          "youtubeId": "09R8_2nJtjg"
+        },
+        {
+          "id": "YykjpeuMNEk",
+          "title": "Hymn for the Weekend",
+          "artist": "Coldplay",
+          "album": "A Head Full of Dreams",
+          "coverUrl": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&q=80",
+          "duration": 258,
+          "genre": "Alternative Rock",
+          "mood": "energy",
+          "youtubeId": "YykjpeuMNEk"
+        },
+        {
+          "id": "UqyT8IEB9yY",
+          "title": "Levitating",
+          "artist": "Dua Lipa",
+          "album": "Future Nostalgia",
+          "coverUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400&q=80",
+          "duration": 203,
+          "genre": "Dance / Pop",
+          "mood": "workout",
+          "youtubeId": "UqyT8IEB9yY"
+        }
+      ],
+      "createdAt": "2026-07-11T07:40:55.767Z"
+    },
+    {
+      "id": "p_1783756867655",
+      "name": "koko",
+      "description": "fuck the world\n",
+      "coverUrl": "/playlist_cover_1.jpg",
+      "isPinned": false,
+      "isCollaborative": false,
+      "tracks": [
+        {
+          "id": "OB22VXM0TsY",
+          "title": "Haareya",
+          "artist": "Arijit Singh",
+          "album": "Aura Cloud Search",
+          "coverUrl": "https://i.ytimg.com/vi/OB22VXM0TsY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADuO666S2ZzetuCbaFCOiCCp8jDw",
+          "duration": 216,
+          "youtubeId": "OB22VXM0TsY",
+          "genre": "haareya"
+        },
+        {
+          "id": "8PbIHTX8QZE",
+          "title": "Saiyaara Title Song | Full Song  | Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil",
+          "artist": "YRF Music",
+          "album": "Aura Cloud Search",
+          "coverUrl": "https://i.ytimg.com/vi/8PbIHTX8QZE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX_LlbcERDQaDHV0s3aMXI9N1PPg",
+          "duration": 370,
+          "youtubeId": "8PbIHTX8QZE",
+          "genre": "saiyara"
+        },
+        {
+          "id": "HQp0DwtTP18",
+          "title": "Saiyaara Lyrics - Tanishk Bagchi, Faheem Abdullah, Arslan Nizami • saiyara tu to badla nahi hai",
+          "artist": "Vibe Bird",
+          "album": "Aura Cloud Search",
+          "coverUrl": "https://i.ytimg.com/vi/HQp0DwtTP18/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqg69DkFASLfh6s5fYNC5Wa2xCrA",
+          "duration": 371,
+          "youtubeId": "HQp0DwtTP18",
+          "genre": "saiyara"
+        },
+        {
+          "id": "eK0IIyBlYew",
+          "title": "Tera Zikr - Darshan Raval |  - Latest New Hit Song",
+          "artist": "Sony Music India",
+          "album": "Aura Cloud Search",
+          "coverUrl": "https://i.ytimg.com/vi/eK0IIyBlYew/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9sHov5FRSBHJIT_oVGItonKnTdA",
+          "duration": 224,
+          "youtubeId": "eK0IIyBlYew",
+          "genre": "zikr"
+        }
+      ],
+      "createdAt": "2026-07-11T08:01:07.655Z"
+    },
+    {
+      "id": "p_1783862696990",
+      "name": "Shyam",
+      "description": "dumbest boy  in the world",
+      "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&q=80",
+      "isPinned": false,
+      "isCollaborative": false,
+      "tracks": [],
+      "createdAt": "2026-07-12T13:24:56.990Z"
+    },
+    {
+      "id": "p_1783940655818",
+      "name": "godfather",
+      "description": "fuck you",
+      "coverUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAVQBVAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wgARCAHyAfIDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAUGAwQHAgH/xAAaAQEAAgMBAAAAAAAAAAAAAAAABAUCAwYB/9oADAMBAAIQAxAAAAGghHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGx411p+x1VEk+/NjxccNj8UTlgvgyGN0WvxFaZsMoHoAAAAAAAAAAAAAAAAAAAAAC2Wig3+lfdHe+RHKmfB0hIR8xgvw5xy7Fu6XSkvEWrUtg59459cOfWr4LIAAAAAAAAAAAAAAAAAAAPR5XSvx0WJBd6RsaHTmHNQKLB3GnXpYK/aPVuFA59FT0D0JfaH0+KzfPtcrFdjjoQZCbk46ovvyQAAAAAAAAAAAAAAAAAWCv/cHVfERNc+pNf6tVrFUn35ZLHc+VTdcsvPvfiUXGpX3SlRSqfWb1SLxn6Ry3KdL5ttRwPct5s+9YKt8+q3BQcSdADIAAAAAAAAAAAAAAAABl6HzfdiuksOajQdJ6lHTXOm1q3BK71xgNbbKoQvrYmNPca3PIzqlLtlfN+c173sblMGpDatAy4L4EgAAAAAAAAAAAAAAABNebZJVDlK9U+e1RITN85VaK5bhUtaBs7aGpgyUrR07gE1O3Pl+9BdI+a21UKzYcrMGpj59uQVyHqc87k5aoCLqvQoKIowugAAAAAAAAAAAACSjbBqXZp7nPmPIxVGs9Uqloqn34s14nuW9Gpm4ILBzvdh7oLLJR/zoKrcqWKu2je6Fy+bjL2KUq0xzuwfBbpK6as1SB5iPXmOidyuau5p3wMgAAAAAAAAAAAADZ1nielKajujUfRASW10qr2qmICe5ti0z1dpe+au3QjV9aGfn/QdDe5w+/L5epzm/R6N55p06pZqsLlKTdQaEzF4mwGYAAAAAAAAAAAAAA9bOLUSexghFj2daprpsa1DdE2cGPdKlC0OwV+8J2Cu/qfNaiU73A/b91Rgz0Cgw9zpl8dA5/ZMFyj5BSuUul69q54vevsUxa9bYrqa180a2tbY+D0AAAAAAAAAAABNXznt1qG6xZYAPAAA8eucaf350h0jm/U697r9gqMNVxfLzO1S10CP5z1Hl0439D1PdUfPvNAAABh9ZucXiiWTTFoAAAAAAAAAAAAAZMbxubEWxTmzWmtbZnnNtiLTq7WKscuevPSvXVOVbUR0ulxGHWxCes1wrVlonnlfUOXygWbqGbDm5pGw6p2aya0IlpPX1Gx78GYAAAAAAAAAAAAAAAZvGFNyuhT14o+RMw33N1VFynPK1T+q6E1zhaNGwQqY2yuS9mmIbz7eKxDUXf0L4zYZzYvP05xTa3JxnQvfucucdyp0eKKanouU1RsAAAAAAAAAAAAAJaJ28F73/AJ650MWLLz2Rrdu+CwbF7559juqqRYKlLvHuOHw+o+D3LLR47DaAmPvQK/dao1dqMgue/PXno1ttPKZeuX9pbtWGHxTIL346MGYAAAAAAAAAAAAC8zvO92pT1N1E4PUhmx33JXudN7Rng9fc+u8bOHw8BkHo8zMha6589lUDxWaf1ak2ivizerPVmp1KuVv5DaosQAAAAAAAAAAAAAAAC2xV9rn0VLzXrG2OdR/Vdec5iv2vIUldcxRNjoO5pU+y7iEENrSFF1da4Xqc5Va4y1ePauc8jOm87umsJgAAAAAAAAAAAAAAAABsa89rXDY+YOeZ6vExFot9i5d7ydTQc5VBo+N5obJmGJFx9NsE18hulyUNT+qVDSrAtE/dOWScB0OM281W5d4lIvoQZAAAAAAAAAAAAAAAAAJ2K12sGw2Ne5aVgyHPsPMLzRbYuVNtO5bRRKjV5+Avy7Umw4rrjyKJzPVvVF6AG9t7sO1g2AAAAAAAAAAAAAAAAAAAANzpFBt9UkRWqZXNvU6IsFfl/F/HPOfxO7pdGbmmydWauzzb7QrPVrBEC2AAAAAAAAAAAAAAAAAAAAAAASM3U2gG83tH3i6mpfynQWMuQep6P0WoG0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//xAArEAABBAIBAwQBBAMBAAAAAAADAQIEBQAQExESUBQgIUAwFSIjNCQxkDP/2gAIAQEAAQUC/wCiX6ZHw9cFofLCCQqgqly0ijFH2BO4+PTuZsbe8hoYCoeqemEG8a+OrYgCCaiNTJzOSJuAnWZoqdpNVbO+ZpzWvSwQTZHja6RwH2dnGbVSnWbqanSXqjZ86sJHpwePqZPILVuztl6pU/ytWidJ2qlnbDxfhJx/UH8SiKqxK5iCmQ3xnbAVQlERCjy7Z1FqjT92rlOkvQmcYst5HYP2QYLj5Pr07fCU7hobHNRzZ8BReyok9j8su30mqRP4tXify5G7UkMe16GIghmIpS7gV/Xdk4TpPhK6X6hmp9d19hLIzmOcrlxjHPdXAdHj6tIz5DHtVjsY9w1PLKcemorlgQEFu0l9ieFG9w3xJDZAtToLT49jmO3DhPkLHAMDfZIjjkNlw3xl2ETzPhQ2Rk1PlJGGqqq+GindHKIjSj1LisktOF4H5XwOTERETUqwEHIs8RtuRHJYQeHUWM+S+NHZHZqSZoBGK4xPBVsVJDpcAgPbXS/TkT5TRwsOyNWdh9GKwLJk959w7B4cERpWaJVo6QNjRs09yMZNkrJLuPHId0SCMGWIeGV92vDwxcl14zYcBAO3VS+nuknZHHJkPkP9kWS+O+Odhx+2zl8ztIiqsSsVcY1rG5bh5I/3K8PNK29jSNl1ipiorV1WS+ZuzFaEck7pBNRIRJGS4RI+4kh0cgiNKPdrL6biwySMixBx02qdUki4T/brJIY6DkhJ7btWbY5WOiFU0fVjK9QXVdB5M/1i/OWMHi3WSuAup5XhjbqjcsbSqiISdHHhLZMkndIf90ZyjwdmduDtRrg5gCZNLzSdRhKY7URrctpHGLVbF5y7X5SwjenNqqkcoce1HtONRF1XyPTnJbNwljIfj3uevh6QWlXoko3OfERVWKFAAyQZoBAK0wsmg54+oRuCRq6F+7xsMfFGy1LxxdVAu+Tq1PyyKg/GbVoLjl6rC8sTJ4+WJ4NEVcSOZcSDJXErJC4lSXEqcSqFiVsdMSFHTEAJu7kndI1TM7Y2SScQMReihfyBy6H1DqlJ0NpY4VxYMZcWsjri1IsWpxaouLWyExYUhMUBm/bqf7v45bu+TqE3tiZcv6RtU7+6Jk9vfD1Bf2S/xzv7n2a0jRSklAXEIx34Xr2s21OjcvF/fqjXRU6i01eip+FSsbiy46ZLcj5P3Ec5uJJOmJPkpiWchMS2JiWyZEktktyV/W03/erv+xqj/wDXF/1sPyHJkpsVFt8W2Li2chcWdJXFkGXFcq+Go1+MK3vG5Fa7XqT56k+Pe566pRdB4Z3aHYU6By88ZVF45erOEpF90KE+QrWoxuW5eyNoTe8urt38+NarnPG8fgxieTB1sh2DqW4eAJI24ElJAdSIgj4Spdi1shMSuk4yqIuArgj29yMbMkLINqoF3ytWL+SZlMHuNhIgCYSqGuErDtwgCj+7XR2SDDhgH7bESBlaCVwSRJjJCfgKVgWTpjpK7rgcEfJJeEGquUFgvbbvasj7cUvCdF6poj2jbMsld7U+Fj2ZB4Kwjkxrmu2vxhJgB4e1wpHlduqi8j9WAFkAVOi6iziAyNJHITRnoIT3K933Kk3JHyXPGDDnId2gCcYhGOG/2oYqZzlxXK73QIayHNajW7tYfcm2qrViWeMc17bo3Rn3YB/TyJli8vsROq18X04pcVklsmMSO78TUVyw63ERET22cPid7I8ggHSDOOXwVTE25EckirY7DQzi94wkLgKp64CMICaOZgGSJhCmgzmn25qObOjLGL4aui+oL7iBGTHV0ZcWqBn6UHG1sdMZFAz2y54wYczzP1AsdyAtOI4nAL4QAnGKATQi1MsumRrRFwZGET8J5wQ5JsCmwFeYuLVjQKp0XUCeoca5HNydFSSJzVa7wdVIYEmGMwLJk18jbXOYtW8xBaWWBF9XHwRGFbq6eqC1FfyRsuI/R24ct8ZwSsMxVREsDMOfwkWweEZjPM/YBqYo2IxmGfxiX5XKRf4NXi/v1TP7o2EYhGSQqA2453x3zZzpCeKpwdo9W5O2JqjX51cr1lapX9JGrSNzB8dFCpztRGpq6J1PqlX/ACdWi9Zuoj+OTuzjcBvGwJSRXAmBNuWTlk6ql6TdTF7pW4z+SPh54BZLnPkp48Ewwc/VEcHcFekvT17n7jWCgjHlFN5djux/6qbFtTKn/VL/xAAUEQEAAAAAAAAAAAAAAAAAAACg/9oACAEDAQE/AQAf/8QALhEAAQQBAwQBAwMEAwAAAAAAAQACAwQREBIxEyEiQUAFFDAyUWEgI3BxQkNS/9oACAECAQE/Af8AJZIHcr7pheGDRxwMoWJM86HsmXY3dj2QOePkXA9r+57JjtpygcjKmOIydGHLQVZdtjJ0oMP6vXxScJlpj3bRpYh6rMIjHZVH7ogrRxEdK5zGF9QdhgaoozI7aE1oYNo0NpjX7Phys3tLU9jo3YKrXM+MmlmmXv3NVeDotxlXngR7dKbw6MD2rNbrd8qrW6Pc8rhWbmfGNRRmV2AmN2NDfh2q/Vb25RGFWuFni/hAgjIVm5s8WcokuOSuhJt3Y7Jri05CrXN/i/lOcGjJVm2ZPFvCaC44CrQCJv8APwn3XNlOOFDZZLxzpcrbvNujJ3sBaCgC44Cr0wzydzpYph/k3lEFpwU+Z7wATpTrbBudyuFPda3szuq1h3Vy88/nnLhGdvKLSOUDhVLT3O2O76XYOmd44OlSv0xudypZWxNyV9+/dn0o5GyNyFcr7xubzpRrh/m7S1PIXFpXKZXkdwEzO0bufzloPKdUid6UNVsLtw0vS7n7f2VKHqPyeAuFZm6r/wCFtON3pVZuk/8AjS5D035HBVGTa/b++j6zHu3FNiY3gfALgOUZ4x7RtxD2jfjCP1BvoJx3HJVNmyMfyrb9kZTRk4C6A6XTRGDhVX74wrrN0ef2THbTkIfUG+whfiQtxH2hPGfaDgePzXmuL8hYI/oHKaMNwvqJ7AKo3dKNLTdspX08+JCeNzSP6cEqg1wcc/nwEYmHkI1Yj6VqqxjC5oTOzkFarGbGCq9MxO3E6XDmU4X07g6O/UqtWN8Yc4IVoh6QjYOAsD4BIHKfaib7UM7ZhlqkZvaWp7Sw7Sq93YNr021E72jZjHtTX/Ua5KqxdNmCpX7GE6V27YwFPc6T9oCbfjPPZNmY7g/nlBLDt5TnuP6kATwqdd8fk7Ses2X/AGpKsjPSwdGVpH8BV6Yj8j3Ol6fP9sKIAuG7hBWKW472JzS04KAz2UTdjAPzzU3Ol8eFDWZF/vT74CTHpNcHDI0LQeUGgcacKzcA8WLnSnZ/63aSwskGHKKl05N3r4V2xj+23SOV8f6SmfUD/wAghfjRvxp31D/yFLYkk5KYxzzhqr1BH3dyrNPHkxcKpY6gwefhyuc1hLeV5Pd/Kr0seUilosd3b2UjNjtqDS7hFjh3I0rUxI3c4qw77Zg6YVS0S7a886Wagf5M5TS6N3blMJc0E/DbExrtwHfSxL0mZROTlfT2YYXK4MxHSqMRBXG7oih2Vabqsz70MTC7cR3+NeEjjx20gZsjAVgZjOkQwwBOG4YRbg4VKOVrs47fJfXjf3I0eMtIX2MqHYaCFgO7Hf8Azd//xAA4EAABAQUFBQQLAAMBAQAAAAABAgADEBEhEiAiMVEyQWFxgRMzUFIEIzBAQmJykZKhsZCi4YLx/9oACAEBAAY/Av8AIl8X3Zak2phJOfi8naSppv1dEsgukyka3HY1UIKGouJTqZNiRI6hpuVWuBaTxJSePh4eHGreDuaSRIQeJ4TuOucVDQxR8tYyUARxYpciQGfPw6uwqhuLRoYo4Ti9+oxeL6RMttVB4h2atpH8jPzCcVHRMXnSKfmrCZYq+EUHhUhUse3E1q/Tao81xK05hkrTkYIXoZRenlHmmKEaCUOyScSs+V20vC7/AK1v0cVGafBSFjGdkwIUJgsVuqu9NLnYq2VZc4LClAaReHjF2eEHZWZJnVpoUFDgylqyDKWrM3A89IFNyYnshzOp8Fsr7wfuJeejjmm4AmSdS01Ek8YWUAk8Gsr2iZxSXeadzWVAgwmhRSeDBDw0EQEiZLBb2rzTSPYuziOZ08GC0GRDWhnvEbTvC8/rFKxIi5PZd6tJ2Ot2TwdWriR5rll2JltXm8xp3hyaZqfB7Sct41YLQZgxrRW5TWXg/wCwDx9sbhq0hQRknGrg0jgXoYyUJhu0dVd6aQknZ3lrKBzOsStXTixWvM+Brt7IDTGNGouyV3as+DUjZeBiXptIGXGNp4ZBilGF3/Y2XmNH7DBSDMRmlUnW8MEoEgIlSjIBp/CMhck7HVpnEvVlAbJqPfkjeamFpGBf6aTxMrgcvDT4TetL6DVrSzyGl2act41a2j/5esI7sfuMhUsFekUHlaygACFsbSK9PfUg7IqbllYmGKvR6jytIiRj2bw+sH7uFa8g1pfQaRnso1LT2keYRtJy3jVgtBobhcOz9RjhojzFsImrzG5I5MtGnviu0naO9sDxJuoFkdpnPhEKSZEMhZEiYyT3acoh6+GHcNYVbtHWxvGkbKj6tX6ipTsV/lwJ+JFIzJk3eT+mrerd/k1pcp8PfsDxQ6tisrb1iFJ5VbC8T1oy17t0UoG9gBkIdmnaX/IzV3ac+NyrU2FZRsK2kfyBSrIspB3GM1bBzb1bsnm1CE8g01qKuZ8IW9P0iEyyl/aAAzLJR94Fa2C0ZGCk78xFK92Rih6N9D4c7TvlWBAzXSNo5IrGwNlFOrdmdlf9iZZKxRTPNOGDwb5THglGo6X+Ld0WySOrVWhsT7/VqrW2RPVu6DUdI/GIR5REq8xgteggCMwyF6iCF+UxWjzCcaukfi3dBslDq1Fraj7/AFai0Fsknq3dFqul/j72nkfaPVfNF0PlgE+Yxl5TKD0cJxdHjL2j36vegp4ZCTUeo+7UWk9fYk6C4BpB0OBi+HKCxqIg6eyxLSOrd6j7s8UkzBPvtFENR6v7t3n6b4T0artLYnX7YlIIlrB79BiIo+mLzleR9Igm0km1o1HP+zUQhs0jo3elqvV/dqknwZ6nkYKT5hJiDmI988/Ju+efk01qKjxMVvD8VBBatBcQOAg56+GAHJdI9q5GLeNb8zhd6sEpEgIWN66RQnUyihOiYBKRMlsaFJ5jwPAhSuQaoCOZb1jwnkyw6RjlQ3PnGccacWob1bwf+m2QerbA+7Y1pHKrTItnjEqUZAMVfDkBG1uRWLw6UgXhyT/YYnSelG9WtSedWw2VtjdqHT30peE0E6NhdjrW6oJlI15RC0GraL8vsbTxUg0hR3pcE9pVTBa9Moh0rCrU771lIGHP3xC9GmMo2lmQay4wjzb7tGk89YP221ZPzNhIPKNWq8HSrScI6qa08UVG52qxgTlxMbKTiFRxaRzjLbRoWwGuhipasgGKjma++2DtIp0hZTjeaNN4ekQhGbFKxIi9R4v7t3q/yapJvWlUdf1glIkBc7Z2MXxC5NJkWCfSPyDWkEEMl0N9T78FHZNC1l1gR+zckM2r3hzbFRW5TYxTX2ckiZa16R+LSFBe7R2PVnPhdm7V0YrVv8D7d4PpjJQmGm5Ng6bmqgkait/1aFFpvlWRoG9Wmuu+Np4f+sFzsy2QNzWHmF5/YlKhMFvkOR8Hmru0538aEno2xLkW2nn3baeNUKPMthdJuyTjXo1p4ZmId+kHkqJQtihefgoQjMsEIyEbPo/5NJ+JfMGmhQUOHstq0rRLSTgTwaZFhPzMoAkvNxaRziEPau9dGCkmYMPnGRYpUJEeCEPBK18ULTwyDSGF3pGaSQeDFT1Ux8MSC9TMN3qPu03arQihIOZi7VqIdsnI7VzVG8NadmYaZoGtO00ynr4LYULY+FrTwzNxKE72CU5CC16CbVg8HzRdDgYlPlMClWRZSFbrlp2emrWRhRp4WXqs1Zco2fMZRejlEDRMVI8wjbTto/nh6UDqwAyEUo8oioapi8i7VxuWk7CsvDlTRam2FcjoYvF6mKOM4vT8xuO16iG1bVolrNkJR4hhXMaFlgpKVypK46+qKjqbnZhM1cWxrMtPFwoZgzbYdtso/wAqf//EACsQAQABAgQEBgMBAQEAAAAAAAERADEQIUFxIFFhoVCBkbHB8EDR4TDxkP/aAAgBAQABPyH/ANEQlAwrJ84nVHi8zZ0sUyIP2vQNcqtWeDpCO+HXEOBAbl6qhQQRZakQnYa23Y8PkxkiyVCQBYCDDVJytzPgj+/0zx6rp3x6Sk8XL3oJqwbebw5HT7Tycb11KzGVci7Yw3rd8cx9D7vxjMl9Gac2Xw/MvKy64p42L4fGMnMPuY7hl2MZNqn4/GCESAzWnG5T08KJipkBrWS1LfHrUwv2B2eC5W+vSmrk5MIX5zz/AOY7XB7/AKxhXkPvgEsF6iDTwRnTPT+uF0n7u2mZaGTqdOvgvN4T7YFkySNQbdbV/PBmLmeXBO+kmTdMYufJ2/uMPNs9H+4KISVV1vApqx2zS55s7cFmFy670AABAYO5EZFbwQFERhKKWy8+jnjYA3HXb9UiKJCYCiIwlSxEQJm03e9VLgSS9BWUHMwZi2MIjPm1mP1SwbuJh17goobKkyETvirTJAa1CsvGj+8Z/JWVo5eDTuHJRPLOXKcTGLs76ZjfDwedg9dqyXeau8N8HQ3KmmZsD35cAFq9qkN7/iYxmLZ8utM1UzV8HN51nIVAIWWMdy9gzKexHR02YLExfq/xRIQMgNMZTb1kbtQr9YydnFSRLjrSyk1NX84RxgXbFXKtS+LZZHNypjp7XTwNenlsubUl30NzhSTzvM50gFSOY4uZho6m1ACWP5YoSj3rNhyi+7GAlpAjvqYJJDas6az1DoUae2DGPcpWkryyuUcGYiaqxUbv6xtUEI7t+dNZ7+4SkPSM3lUh3I6O3BLzZe06cSFvcVJcloW4Uz5d21Ca5amq4s38+/PiSFSwV5Sjd3oUF2DDITN/Z+bBafQzgYhfRqVGpO/lTlQXHHRQ5PL++Bjo71NW9gY9m9fbnWZj6mfLEPmLLlqmUFwRsy0tOmLcjnWP7W5pucBMEohKZnVl1NPzMoVbCSKuLcph9OEBnjNrxLSVIlQJ5mY5yaHV1xjcy++elAAAgNKAEAjcazh/Z9MdQzn1c8Zils+6lVVZXGRHV7afemMSQ5tTEh8qLR3qvih5kEZI/OsM8jJ6Vok6kParonVCtSXL9lZsXxtMdRZn0NaEOAgMM/srPpiyr905UAEGRiBASOSVbut09MczNLfRgBknCVdfi3xOYYYj2ouXWnFWxeVUuNueEZIvpn8YAiQGa0y9lycjTAm5SAoh3DNzdcLTxY5vKkW+DpgG83rSIokJgv8AItXwjC+qPDuTqW5zcJlZ3p1xyuyPVpjOL77VSy/K6Yp6Iy3zjnBrvK3bDki8wZ+CIwFeRV//AJqtvmIVetzVlttLX8z+qPe7QfFX7furf5stW67DGJnLvP0xlW/bMv3huXG+lLKrdpnUJI0ZGk4RbeHycZpcoG5/3G/vyVefIUq1bGrLbeGv739UfvUnxVu2tb/5MNWy7qkRhIfyvsOX+nXxRtjsUfXPCLr9k+mOcdfyX+cOm3azx+205f6d6/KzJuJr39xrtEB/x6pjTm549LwYbLT76Y99e+HWhO2KGXU0pBLP+PemJV98qVT2lR/N7ZTFfMvVpbuGr559CXuyla5Np/FTr/DgUPy9nESXXH6vVxsen3wvbcDk807YKOZo2UX7v4pltvLVo2Vb6GwFX9+eu94+DdXT7mEv6vqoQ4SEx/6Ov+jo8OZTNixi7yDAmrK9uCatC7YPI/dvDCYZHr0xUTNH3HWkRRITiAm6vPtRUBQBgMZzvRrjHOnik6o9X+YMgVAFPR5QeBpR5wVba+1qLn0sxUcDMRlkxFERhKJK6Z+cczi2TRL7oIq1bI0q4bmrd+5UmK9P6VbAKQpVq00bIxzqZXq0xhCyj5ZYQWyYN1IJDmVqw5/orPEOWRV8h0Ye9We+bk9fzS0CAKJq9N5/soAICDgeGzg+jGPEO/Si4PPXx/iwJ1tazRE5c3V4I0e19MCduPM6Usqt3Bgs9dBcRE+GYLr+YptlntrREkokcVoz1al5/VNuVKqqyvAkFImpRQfVcvVV46YR3tQsm81OKBKA61eu8v1UrMD7WrdYPAp5wyOIpQJFp0UzAgyRxj29Wts1Lcte8Y6oypDZdX5ufv1DCZg5ByN6z3+WgxHGX6FIEvh4RRkYasi2dL3XzU1LnVniGCld9hRYBQBwSWSWNTnwCWBZGlIEn2koUl2SpDZ+m0+9Pzpw5Xk1IT8z6RwIQKmAKDKl18ulZMQ2LlRrO2Nn/MSxLAXpVMs0PzRIQMgNOKazjkNf64chbmrNZT7oNPA4AzDa++KkiXGk1vMZ0lfLC43vNQyqBFuLUSE1PNeeLmIaGuyjyzeKGEHZ24lgFCNQjNzvi8HaA9x0oAACA4vUtc1Wlb2kWDyfqjX9Y/VfWF2rXTzSfejK3BMRck5G9JuVORtgKMmTUlwsvz+8QiybPJ50cWSzzOfgprdTkc6Bb5OuCgKsBrU5cUuz2qGn/J9K3Ho/ymh8xVObes3zqO6qu9KiJvNyJ2pnCAwmMknS1fzRYBSJhECDP+KmQKhHwQdlk5ej0wZF7jtTrtHXfHrnpRTN54kZ9cQqEhFwpCJLEmLOCaYb48+xnfXCGPQ3c+CMGfd+KNzXtTNQM1dKcgAdXr8FdwQubfymzdDkbcF25xtQbwcGAIa1Eo5lzwn5GXqfzGXkU++mM537b9cAvk4a2IjzOfB59itQMHPld6+Fxy0sbKly8l8d/i98emid3GXLd8+uOUOtvyeH2kllcjWhLgIAxiu0vm/TGPnH3MdnQdjHl+GdrPBkJr9DqeHKEK9HMqDC2dx5AZO2mML5B2x22u/BzYGd9atU6HmDvUxykxd9fEIYTdypwyxZieCX9B65Y9dR4AcOWFZBSbtHI8XSxEK/5D+6QF/o/v8A9U//2gAMAwEAAgADAAAAEP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD75/5h995//wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AOUf20P20Fn/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDvf+sn/wBB31H/AP8Anf8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A9ZV/v9tBdLF7Rld//wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wCyd994SQceaRzf/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A08/ywQxdf+0UQ7e5Z/8A/wD/AP8A/wD/AP8A/wD/AP8A+kkNW8cNfvPckFf8sVHX/wD/AP8A/wD/AP8A/wD/AP8A/wD9P9/BD9xNX/PD/wDbf/8A/wD/AP8A/wD/AP8A/wD/AP8A/PfvfmP2kN0PWlH3HXvX/wD/AP8A/wD/AP8A/wD/AP8A8sEMEEFf9X+tf0MEEMNn/wD/AP8A/wD/AP8A/wD/AP8A/wDvdtZD9lZ/B39Bnftd/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8Ax9/JRx/1jdvjXd35/wD/AP8A/wD/AP8A/wD/AP8A/wD+exxfzTQQRbf0wdaQQ/f/AP8A/wD/AP8A/wD/AP8A/wD/AO+/vXX/ANv/AP74Qd/7+/8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP5QU5/f94R1RUU//wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDmu08sEsF+2P8A9Nd//wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/f8A6QV/QV7w/f3/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AMUN/wBDX/PR/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AMF/8/8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAoP/aAAgBAwEBPxAAH//EACoRAQACAQIEBgIDAQEAAAAAAAEAETEhQRBRYXFAgZGhsdEw4SDB8HDx/9oACAECAQE/EP8ApYtlEHDa77cLHkhirrvDEQLYzZbrj1gC1Z4jXArU+vKIJyNwgGGdqn4hmdaAnb6vXThXWuwOfXwwStqe/bgSbsneI1ZJZeWnpLn0+XhY+hOqD8Q3uQzhOBROvPY7+DG8q4y0kmmbXZ+5mBqdc/cZna24gtq1pwOroyec0QonpEDlfEXJmubTd+oNzPt1h2F14MbsGPqI0cyp1PcfqGksYdtbc8v3HC2s3j/nLMBLSQ2aex5/uLnoIm6Hy7wQVrKVuy/14JI1412gFKuRz++FRPUz168KKQ/7TlDQWsLNX2EqFOj7H9x0FJLkQcNAtXsfcsi11nPb9yksYfX53AXsqP6aesR2QUWrffz4D5CcmGsOm1exED/ubUdH75w0+kGu0e59zEQ2jB14abQbG/fnAY1ZvPT5nbDX84dCyZmnbT9R4q3z4aFx8p3CPPaLkx0rDH3Nuyq+sULy0fvymSd4D7l48fI4V/tmJjy8BlVTJH1JlvazBW+UPk9o65nWXrfV9S9GXT1ilkYryK9+frEZZJfnJp6S3GdX3EPMNx+T2iM2eUwU4E+pMiv8x0FKNo5n8BdCGR2lPPr7f+ygu2vocKic79dZfyL8y0NxI5/gaQIrBCuXX862iTBr5EyB+JRQSt3nEAuLissmBFX71A4HgPbj2gbe0cTNUsCLe7zmEPzMKnkQDHgBLVTK37axhsc4Dm5FI6kcCsMO5ALD56fMLtPlr8QkS83+ia85Yp5nVhI7Eyy2uXzrMoAzMTfd8TF7+cIVU0iOpXrEahhSrMffAm3Qb/cV1sczWJNMpjOvXN0In9IduBK3GfqBSq2spWkZk1cj/TER0kZAyzoifnTUpa3sc4TYXzP+0mIuM5L/AL7QMtjwwS5hlcFyYKvbz5doqreF1L2f64UI89yOKbGpzvbwVOzVz9cFbogtLu31E5s8oHFvlD+79TRdLkaErRbA8i9DtHuem59QVWQdve/XwZBWJ3Sg11Hlt5zVG3qRWTacpjq9oLYDtwKaZ2PuMAAY3sbO/LheaXJs/uAcBDBpdvBqKS34Au/B3iWJYG78TtKvnhUenzrOzNfT9RLsgAsNH/deALSN/DGUVf8AMradAz33lT6Ptrw6XB8Q1eHSMu4lB0eb08SpkdNITqyJCzB6waBwfgW1v/t3/8QAKxABAAECBQMEAwADAQEAAAAAAREhMQAQQVFhcYGhIJGxwVDR8EDh8TCQ/9oACAEBAAE/EP8A6ItXCsGCAmb/AHbAb3QhBJSOPy8CsYUe42O+IQTe491T2HAx6KSgLq1ah7+jVbyoMv8Aogkei2qzqg+8AQwClwQVL95xsYWn97PjHBwEJ6Ovb8fH/EhBNIL6Nd7YHL0DB0DKCiqDsPj0cEn+nTP/AIMaM5ckl2RB5TO8TwgezgL9pJHVE2C3Ufx0Ojh2f0F9lwIgjI65IBEEaI4dQtPINH2jPYzzs+89D/kJ+85RrCuv6MwgxMOzr2DPWMJRFVlXX8fNzaytdL2t7ZxK8sKvh757de4f9mdGEEXvN5nOXyF3vDwMhQCUMAGuFQfYXXq3/wCfilWiASpsBhcGBQ27I8u1pmaZftHwPz6GyuI0FldSTHUxAG48jTKMlX6Qn58s5Y2q9VZqR/vx9ZIQSmA3wVkdagDKhoEpV2P5Yd/SR5WRiODhz7cQxlmhi/yGvW6Qw3/CH3DisDcbLv264ANkHImHVIqAo/fLTXf0TcOUl7Xf5jfJRuakKpA5Yjvn/wAy2Wag2s9zIQpPBSBnTpGBaroR4wtkNRqugcrTE2hqNmgcBB2zCWC+HkGwTy2nHvtgmQIAIAyFEchFUPvW/L+DZkiRGEcRgH6287/7ySSG2CgVkqbna/8AG2GZIhEhHJmyJEYRwvxzInirWhPBi7wRid3Kx7aY4ekVXEAhd6aZ1VayQnQbTywno4hkyOhupXjE4TMKcQUUpWwX6ZvWyDlXBgqjS6T75aab506Il4xZynsdfwzMJQPh3OMRqXhr+p0cyeIKsRwbHn34RpUDhPQCck0XsGrzY8YjfbvH3X6t6YrUkUnTfq2L9hEUdBq9FdYjFhuuhgTSWqW+A8vjOYAaKSblweXvhVpqEqt1/D15irabHXZwUKWX07JnGkH4AdzjDsbx1DdamUxt402V2+XTAnRAIAaBmmiPnX8UJ7YqYFI0nk6UcwkfA5BsmDysZvfs5aa5VhLTUft4wCqkaq3X6zfeYob6IxJjMwWGg4PwcSGsOHSjoC+2IHI1io+DqU6emZRpF+D98dMCEEAZEdcw6vYu7rRwhrhjv3Ogba9LhBBbLcGJdbBq4YUuSaly+jzm9GtCWQ4W5w4sFj+BNHjIEAUQjZwMqKW/7EPjnAwKgHl3ecxhLO0DE0Uzyx5dfbT0T/gxTdd+r4hsHWOrw063xGRZ9gVTsye3+dIEFWvAU7EHbKrU1ms8izyeziZRZ1+u19F/ajUHXw6e20enhHh2B+9MUmhZVDYPvX0h7aOofTs4kUqj9gnpWCW2JPXoaOvQ099s1IhA5V2DEoW8L7jToV6YMwcDgMqOmoaqoPh7P+bUNMCSbD1YO/ovz/OTE01ZLR1a9GvXDDrgcI8mQwyXxHazGjr0a++/oi5mxdaBy4h+FhegP3rmyAqV8Q/45wg11QKHRq8c5q3RIafs2cDWnh1Nx5Lei7BIRZtfn23zCwRgEdm7p4wMZwiofTY4PPoC80iyNzE/aV+7Veyf5lCfihCUKMzK6bYjhBZ+Yh9J7VUBBFAdxd9nMnjrsJhA3DCjEnDE5LBLbDI+dHR69+nHVzFQnU0/otr0uZYUAIA2wJRoBImzhm+tk6q3P5GbBGISaaPRo++mcIwTjtKdYp74ZkiVWVczlKAPL7U7s1ALdYDviOFdJl3KecGnZUXwn5xFVLpome9/86Ogms/RiPBrHzkDxiNN2B9D4xFAlqy+GFIl2Kke9++eyPrYqvYcGuMJoBBlEPFTHhfe3vnJzUEPY/fjrgEIBABAGYhBKCRHTDVKs/k+nwmb12Y1a6ztEdjfIajLtRIcTfTgujR7kPfOKa0hPKjh+XEyl0OfYn5MTo/0U+7L7Y58qy8/iILqqvZXw98iUDUWAu4TVpk0aD28zk7Aw11WAxA2yg1ar38Rk8E0RatYf1pcTyCqN3quTKBJElaG3vU74ZsiEbjlK5mwGrv7Ue2BAIiNRMrVAn5K+E+346QSBh/RVcnjiB31eFO+Y1xft9Ps9s2kVkBbUdrducXiGJWAo97e2ZRYzYl/YXvm45Ef5NxkAZPIth1iO/4Qy92CXETBOtD3jETH/vqmIntUx7Tj+j50MHdHj7nC+by+5jxfT4jF/wB1/KuIqRNQvvGa088m1d8ZjHViPYecgqXXksHumGcKkq6uHxAE0RkcRpg6GilTszkAi8vD+w983spR3P0vbJJIbYvNb1PeMTsf+2iY8xU/M4mP75oGHuXT7jDz2G+WPF5HzGJufG/4VxORprA94wzUFESE/DaLKSBXBg8BmcbDLORLy5TWgYm4K+cyu1RuqPksigJkP9cZ1GgQnit8/hqD4FTFBSlsRMKdr5Rj+682f/GYv0JOEoqVZXOPLeykZO6H3lDMkK0pnsfrIWbe5Izstg9RnAW0Cf8AgsEtsf1DG7i8bpfGcAkGMSTv/mx1J3/hi282WPZcR0Nt80YiZ9rn2TDRz/3C4f7sfyGBsgFCqk0hyY66D358iA85tj0C5ydkpk8t6JXr5AZPCUAgii89cWDPMXgw/o+cJia7TMe84ma1/eGJ2KdIj2nCMsbs/P4Y1iQAbyB+DIX0CbtBPvDL3nXEYTIYZL4/ifvH8T94DBkEMNpc23EMheSU7sdskQhf2T6EuZzsMi3kr8ZhFMc6JHyI750RDN9DQ8jXrdmSIRIR9R7qyhCdt/Wx4wYoVuAyZQowLxqvg75qSVpXKGAAAIDTIimZnxJkD0K/K6YngOYefwcmRzA6pbECtdQWOkvMYg0moD7sz4wMsZQWpFXWI75s2RIjCOBFBmvXZw/M5z9KQP5bPccKKXolHcmfbD0F7k+YwrHJ/TXDw8CfQPODxCsxR0s95wAAAAoBkqw1mAwzxqFo78t3rxmgSFp5UHy9szWT7Uy8i5Vlq51D6J9zCIBLiSOJ5AtGXWYTiTTtA+h84lXSh46B5xMIi7PBT/NgDFAlIajSuIdG6Mp3ujtgkIKAEB6FEqBFldGlbcJnrVuaHVGpg+hFbXqtT/xOF7Ny2C69MR1l09X/ABTTMJYL4SOL5dJTsPM5PES4OrQe8YZwqSrq5OIZiVzvoxBDtfAySW9Kdmn41VUvBF+f8xM2x7ug9lwF4oFkbOdx77wf7eMbHeun0HN+mGZIlVlX0LkaRIR4cBLEiSH7dyecCArf2J8scRtI8ZrSK6oDB7H9aU7XR3wR7gXsH5e2Hjxq6BsFg4PReBQlr6Pmm+dfmI1AavenOEvqgQiXHOaIOR5B0txixtTTdrU5KZrBVPnY7sGJTwndWX/NvJQhqq75OxkQwFL55adL9MTSxaVOmfzmfcKq0AuroYUWUXR6TSg1GHAMB8P7wWhzor945gky8+p807K/4lxGyQ0AeixcyK1p5NdzpXNfHzDI8ONjfAqfJ1PbBmDlcji/tUXRZ3Zf84akMhJqsxwh5wKRtGdDlLOD39BWlASq2DBdQJ4A8HziOweA9h3OPjFSVIr+/o8P/mkj4WVcBg5oaqq9Zbof6wJ0QCAGgZT6NpYKifbxbb0ycFZrOufd8EECAagCIP7X8HagKKx/ae+2YSPgcicmHUmt8eNTz0w8ifTN6VO4YRFEhPUQJGkuHVsYZ1HMe/Y84mKRHuB9CmZdToNzYauExTKR1crr+sOoSArHJsePbjJ3SBqI4fGVV6m7k/3+HlWnF79D98dcEyBABAHqlZd0T7r4VVJ/gKmFJ40UwA1ZtHgqUbcJ8MJCYWlzvJwAAACwegt4aXTy+r9MIzagsOw0MgSoMiMI4Kg7ivx/XO+BkktlMqORK6Q5xGKWQtpDh/CyfFqray4DEcg6rdarlcjbClTAG+JtgpidC36vbfGxjwK+tx2ntgysagx127/+RYZUoPu2PfBbJ6W1z9CO+IMUraRxd7xhSFmmgrGwbVm+FnNIuJRM1JKwkvS34aabYkZIaRMmgjKvlw+MJSANUTT8IVSgh0+wt/fgRBGR1wVNUC67DVxPWbRK83r0t85kB+zEdzD/AI0QKLlCtadnNWHIxCMJhC/awVmiduTTyZl61BCAWd75zCzJeBHkOV+fCC2nut1Df0V+PlXnY/OCPUjorZNHBrzUoAarifgpCINR4NYvsfhKfwlAvZdf+OjM1QWHYaHotleUWXXsS4geSfBlCzEY6wTGFCVKXVcv4HgZqz6T1QzTGrYNgk85JBunw/eJOlUx37fzn0EYGlYWyYbeAIyeZsNjv0/FUjbsVBd7vgN85pIjnCr4DvnA/Q+yH5M6jUiuVPszlpEgN0k8Oa8EEAV1uy533/HymEZaN39qmAJmWACxnJyZw5f0e7OT2lByfROdJ2j9pvM5zIwMtl9C+iYhuxW/oTh4/HGCgkIRoafGJ4D+nJo9lzgJlE+FPAM62QI+9+s4GZIDwI+vRWCVl0R5ThQKoBVXEogcI62eV4xFVASVjWX0H5CDJf6eanZMSbsJKiB3K9bX9HJ/v37Z/wDYBZ9AzV8YxmxVqtKYmwPhexfvP5eKeoFpGT4yhRH4JJKf/VN//9k=",
+      "isPinned": false,
+      "isCollaborative": false,
+      "tracks": [],
+      "createdAt": "2026-07-13T11:04:15.818Z"
+    }
+  ],
+  "history": [
+    {
+      "id": "h_1784054986564_4jfe",
+      "track": {
+        "id": "0m2xS08lTbE",
+        "title": "DIL CHEEZ TUJHE DEDI Full Song () | AIRLIFT | Akshay Kumar | Ankit Tiwari, Arijit Singh",
+        "artist": "T-Series",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/0m2xS08lTbE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSXL3fhJBgFVhepbvi4q8XDTWROA",
+        "duration": 272,
+        "youtubeId": "0m2xS08lTbE",
+        "genre": "T-Series"
+      },
+      "playedAt": "2026-07-14T18:49:46.564Z"
+    },
+    {
+      "id": "h_1784054937736_uh6y",
+      "track": {
+        "id": "HTQ2pSM49dc",
+        "title": "Kabir Singh: Bekhayali Full  | Shahid Kapoor, Kiara Advani | Sandeep Reddy Vanga",
+        "artist": "T-Series",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/HTQ2pSM49dc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtfrz6i4dbuEc6dHIDBXnMC3M1hg",
+        "duration": 372,
+        "youtubeId": "HTQ2pSM49dc",
+        "genre": "kabirshing"
+      },
+      "playedAt": "2026-07-14T18:48:57.736Z"
+    },
+    {
+      "id": "h_1784054919769_ryve",
+      "track": {
+        "id": "ekQKl4JyFEQ",
+        "title": "Ae Dil Hai Mushkil",
+        "artist": "Arijit Singh",
+        "album": "Ae Dil Hai Mushkil",
+        "coverUrl": "/ae_dil_hai_mushkil.png",
+        "duration": 269,
+        "genre": "Bollywood / Romantic",
+        "mood": "chill",
+        "youtubeId": "ekQKl4JyFEQ"
+      },
+      "playedAt": "2026-07-14T18:48:39.769Z"
+    },
+    {
+      "id": "h_1784054901922_4a81",
+      "track": {
+        "id": "BSJa1UytM8w",
+        "title": "Saiyaara",
+        "artist": "Mohit Chauhan & Tarannum Mallik",
+        "album": "Ek Tha Tiger",
+        "coverUrl": "/saiyaara.png",
+        "duration": 253,
+        "genre": "Bollywood / Romantic",
+        "mood": "chill",
+        "youtubeId": "BSJa1UytM8w"
+      },
+      "playedAt": "2026-07-14T18:48:21.922Z"
+    },
+    {
+      "id": "h_1784054826075_bf34",
+      "track": {
+        "id": "zZasH6qkn8M",
+        "title": "Teri Deewani",
+        "artist": "Kailash Kher",
+        "album": "Kailasa",
+        "coverUrl": "/teri_deewani.png",
+        "duration": 323,
+        "genre": "Sufi / Pop",
+        "mood": "chill",
+        "youtubeId": "zZasH6qkn8M"
+      },
+      "playedAt": "2026-07-14T18:47:06.075Z"
+    },
+    {
+      "id": "h_1784054287442_dbdi",
+      "track": {
+        "id": "YR12Z8f1Dh8",
+        "title": "3 - Why This Kolaveri Di  | Dhanush | Anirudh Ravichander | Shruti Haasan",
+        "artist": "Sony Music South",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/YR12Z8f1Dh8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZYggBlrTROikKhpGmU1bSzkC6sg",
+        "duration": 249,
+        "youtubeId": "YR12Z8f1Dh8",
+        "genre": "ya"
+      },
+      "playedAt": "2026-07-14T18:38:07.442Z"
+    },
+    {
+      "id": "h_1784054230929_9me5",
+      "track": {
+        "id": "9Bmh6vaQt0s",
+        "title": "Saibo - Lyrical  | Shor In The City | Radhika Apte, Tusshar Kapoor | Shreya Ghoshal",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/9Bmh6vaQt0s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCXRUvWWUIPlHqimPaAWG-_Vt37Q",
+        "duration": 202,
+        "youtubeId": "9Bmh6vaQt0s",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T18:37:10.929Z"
+    },
+    {
+      "id": "h_1784054225173_ctdz",
+      "track": {
+        "id": "PkhfKq9m0Uo",
+        "title": "Tujhe Sochta Hoon (Lyrical ) | KK | Emraan Hashmi | Esha Gupta | Pritam | Jannat 2",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/PkhfKq9m0Uo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd4f3IVAhfrLDDz-8P-RJXU1lEqA",
+        "duration": 316,
+        "youtubeId": "PkhfKq9m0Uo",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T18:37:05.173Z"
+    },
+    {
+      "id": "h_1784054220940_lici",
+      "track": {
+        "id": "HQp0DwtTP18",
+        "title": "Saiyaara Lyrics - Tanishk Bagchi, Faheem Abdullah, Arslan Nizami • saiyara tu to badla nahi hai",
+        "artist": "Vibe Bird",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/HQp0DwtTP18/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqg69DkFASLfh6s5fYNC5Wa2xCrA",
+        "duration": 371,
+        "youtubeId": "HQp0DwtTP18",
+        "genre": "saiyara"
+      },
+      "playedAt": "2026-07-14T18:37:00.940Z"
+    },
+    {
+      "id": "h_1784054214947_2rxv",
+      "track": {
+        "id": "cpDyLJkhg0I",
+        "title": "Arijit Singh, White Noise Collectives, Amitabh Bhattacharya - Sitaare ()",
+        "artist": "SonyMusicIndia",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/cpDyLJkhg0I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0E_2g5BRcPj-1tN5akL6xZ-qX0w",
+        "duration": 246,
+        "youtubeId": "cpDyLJkhg0I",
+        "genre": "Arijit"
+      },
+      "playedAt": "2026-07-14T18:36:54.947Z"
+    },
+    {
+      "id": "h_1784054210669_2vqx",
+      "track": {
+        "id": "Zvp-VBmoPmI",
+        "title": "Ami Mishra, Shreya Ghoshal - Hasi (Female Version) ()",
+        "artist": "SonyMusicIndia",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/Zvp-VBmoPmI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqqL5n9Xl8HsGKb-3Sp82d8MQoKA",
+        "duration": 200,
+        "youtubeId": "Zvp-VBmoPmI",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-14T18:36:50.669Z"
+    },
+    {
+      "id": "h_1784054206428_e6tk",
+      "track": {
+        "id": "pGcbthDbU_k",
+        "title": "Shreya Ghoshal - Hasi |  Lyrical | Emraan Hashmi, Vidya Balan | Hamari Adhuri Kahani",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/pGcbthDbU_k/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC8MPLbszCQ1Y49btxImW96NSZ2mg",
+        "duration": 195,
+        "youtubeId": "pGcbthDbU_k",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-14T18:36:46.428Z"
+    },
+    {
+      "id": "h_1784054198271_tjrf",
+      "track": {
+        "id": "7xeb0HiYi1w",
+        "title": "Nazar Na Lag Jaaye Full  | STREE | Rajkummar Rao, Shraddha Kapoor | Ash King & Sachin-Jigar",
+        "artist": "T-Series",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/7xeb0HiYi1w/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAptazKXIk-LiWqu26QdneLlPj9ag",
+        "duration": 207,
+        "youtubeId": "7xeb0HiYi1w",
+        "genre": "nazar"
+      },
+      "playedAt": "2026-07-14T18:36:38.271Z"
+    },
+    {
+      "id": "h_1784054181684_etxm",
+      "track": {
+        "id": "ZXXLCaqOTsc",
+        "title": "Saiyaara Reprise Female Lyrics – Shreya Ghoshal",
+        "artist": "PlusMusicYT",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/ZXXLCaqOTsc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDIYOz8ZcrTv7l62okSWGjfvCO-uw",
+        "duration": 184,
+        "youtubeId": "ZXXLCaqOTsc",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-14T18:36:21.684Z"
+    },
+    {
+      "id": "h_1784054158541_0g56",
+      "track": {
+        "id": "BSJa1UytM8w",
+        "title": "Saiyaara",
+        "artist": "Mohit Chauhan & Tarannum Mallik",
+        "album": "Ek Tha Tiger",
+        "coverUrl": "/saiyaara.png",
+        "duration": 253,
+        "genre": "Bollywood / Romantic",
+        "mood": "chill",
+        "youtubeId": "BSJa1UytM8w"
+      },
+      "playedAt": "2026-07-14T18:35:58.541Z"
+    },
+    {
+      "id": "h_1784054145567_vqy3",
+      "track": {
+        "id": "zZasH6qkn8M",
+        "title": "Teri Deewani",
+        "artist": "Kailash Kher",
+        "album": "Kailasa",
+        "coverUrl": "/teri_deewani.png",
+        "duration": 323,
+        "genre": "Sufi / Pop",
+        "mood": "chill",
+        "youtubeId": "zZasH6qkn8M"
+      },
+      "playedAt": "2026-07-14T18:35:45.567Z"
+    },
+    {
+      "id": "h_1784054096692_so2v",
+      "track": {
+        "id": "ekQKl4JyFEQ",
+        "title": "Ae Dil Hai Mushkil",
+        "artist": "Arijit Singh",
+        "album": "Ae Dil Hai Mushkil",
+        "coverUrl": "/ae_dil_hai_mushkil.png",
+        "duration": 269,
+        "genre": "Bollywood / Romantic",
+        "mood": "chill",
+        "youtubeId": "ekQKl4JyFEQ"
+      },
+      "playedAt": "2026-07-14T18:34:56.692Z"
+    },
+    {
+      "id": "h_1784054075852_l92l",
+      "track": {
+        "id": "-bNwqXvMuB8",
+        "title": "Mehndi Laga Ke Rakhna",
+        "artist": "Lata Mangeshkar & Udit Narayan",
+        "album": "Dilwale Dulhania Le Jayenge",
+        "coverUrl": "/mehndi_laga_ke_rakhna.jpg",
+        "duration": 287,
+        "genre": "Bollywood / Classic",
+        "mood": "party",
+        "youtubeId": "-bNwqXvMuB8"
+      },
+      "playedAt": "2026-07-14T18:34:35.852Z"
+    },
+    {
+      "id": "h_1784053970576_7r8k",
+      "track": {
+        "id": "-bNwqXvMuB8",
+        "title": "Mehndi Laga Ke Rakhna",
+        "artist": "Lata Mangeshkar & Udit Narayan",
+        "album": "Dilwale Dulhania Le Jayenge",
+        "coverUrl": "/mehndi_laga_ke_rakhna.jpg",
+        "duration": 287,
+        "genre": "Bollywood / Classic",
+        "mood": "party",
+        "youtubeId": "-bNwqXvMuB8"
+      },
+      "playedAt": "2026-07-14T18:32:50.576Z"
+    },
+    {
+      "id": "h_1784053968070_yeze",
+      "track": {
+        "id": "zZasH6qkn8M",
+        "title": "Teri Deewani",
+        "artist": "Kailash Kher",
+        "album": "Kailasa",
+        "coverUrl": "/teri_deewani.png",
+        "duration": 323,
+        "genre": "Sufi / Pop",
+        "mood": "chill",
+        "youtubeId": "zZasH6qkn8M"
+      },
+      "playedAt": "2026-07-14T18:32:48.070Z"
+    },
+    {
+      "id": "h_1784053079418_psxi",
+      "track": {
+        "id": "OB22VXM0TsY",
+        "title": "Haareya",
+        "artist": "Arijit Singh",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/OB22VXM0TsY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADuO666S2ZzetuCbaFCOiCCp8jDw",
+        "duration": 216,
+        "youtubeId": "OB22VXM0TsY",
+        "genre": "haareya"
+      },
+      "playedAt": "2026-07-14T18:17:59.418Z"
+    },
+    {
+      "id": "h_1784049976440_vxbq",
+      "track": {
+        "id": "zZasH6qkn8M",
+        "title": "Teri Deewani",
+        "artist": "Kailash Kher",
+        "album": "Kailasa",
+        "coverUrl": "/teri_deewani.png",
+        "duration": 323,
+        "genre": "Sufi / Pop",
+        "mood": "spiritual",
+        "youtubeId": "zZasH6qkn8M"
+      },
+      "playedAt": "2026-07-14T17:26:16.440Z"
+    },
+    {
+      "id": "h_1784049664497_z5mo",
+      "track": {
+        "id": "ekQKl4JyFEQ",
+        "title": "Ae Dil Hai Mushkil",
+        "artist": "Arijit Singh",
+        "album": "Ae Dil Hai Mushkil",
+        "coverUrl": "/ae_dil_hai_mushkil.png",
+        "duration": 269,
+        "genre": "Bollywood / Romantic",
+        "mood": "chill",
+        "youtubeId": "ekQKl4JyFEQ"
+      },
+      "playedAt": "2026-07-14T17:21:04.497Z"
+    },
+    {
+      "id": "h_1784049629449_2h0v",
+      "track": {
+        "id": "zZasH6qkn8M",
+        "title": "Teri Deewani",
+        "artist": "Kailash Kher",
+        "album": "Kailasa",
+        "coverUrl": "/teri_deewani.png",
+        "duration": 323,
+        "genre": "Sufi / Pop",
+        "mood": "spiritual",
+        "youtubeId": "zZasH6qkn8M"
+      },
+      "playedAt": "2026-07-14T17:20:29.449Z"
+    },
+    {
+      "id": "h_1784049613317_3t38",
+      "track": {
+        "id": "BSJa1UytM8w",
+        "title": "Saiyaara",
+        "artist": "Mohit Chauhan & Tarannum Mallik",
+        "album": "Ek Tha Tiger",
+        "coverUrl": "/saiyaara.png",
+        "duration": 253,
+        "genre": "Bollywood / Romantic",
+        "mood": "dramatic",
+        "youtubeId": "BSJa1UytM8w"
+      },
+      "playedAt": "2026-07-14T17:20:13.317Z"
+    },
+    {
+      "id": "h_1784045733575_lmuw",
+      "track": {
+        "id": "g23pmazHwgE",
+        "title": "Tera Mera Rishta Purana - 8K/4K Music Video | Awarapan | Emraan Hashmi Song | Mustafa Zahid | Pritam",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/g23pmazHwgE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMqj7xP87mO1WvCdZxDHD76TyKSw",
+        "duration": 349,
+        "youtubeId": "g23pmazHwgE",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T16:15:33.575Z"
+    },
+    {
+      "id": "h_1784045425225_9zo8",
+      "track": {
+        "id": "-8C_2BBVWk8",
+        "title": "KK | Zara Sa -  Lyrical | Emraan Hashmi | Sonal Chauhan | Pritam | Sayeed Quadri | Jannat",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/-8C_2BBVWk8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_PCEbZJulpgDrg9Jkd1lVawlv5w",
+        "duration": 308,
+        "youtubeId": "-8C_2BBVWk8",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T16:10:25.225Z"
+    },
+    {
+      "id": "h_1784045108605_25fz",
+      "track": {
+        "id": "PkhfKq9m0Uo",
+        "title": "Tujhe Sochta Hoon (Lyrical ) | KK | Emraan Hashmi | Esha Gupta | Pritam | Jannat 2",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/PkhfKq9m0Uo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd4f3IVAhfrLDDz-8P-RJXU1lEqA",
+        "duration": 316,
+        "youtubeId": "PkhfKq9m0Uo",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T16:05:08.605Z"
+    },
+    {
+      "id": "h_1784044906555_q83c",
+      "track": {
+        "id": "9Bmh6vaQt0s",
+        "title": "Saibo - Lyrical  | Shor In The City | Radhika Apte, Tusshar Kapoor | Shreya Ghoshal",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/9Bmh6vaQt0s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCXRUvWWUIPlHqimPaAWG-_Vt37Q",
+        "duration": 202,
+        "youtubeId": "9Bmh6vaQt0s",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T16:01:46.555Z"
+    },
+    {
+      "id": "h_1784044561621_2o28",
+      "track": {
+        "id": "1s6Sci8UrxU",
+        "title": "Tum Mile -  Lyrical | Emraan Hashmi, Soha Ali Khan | Neeraj Shridhar | Pritam",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/1s6Sci8UrxU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBSxusfHZpV7PB62-goF7peRep6A",
+        "duration": 344,
+        "youtubeId": "1s6Sci8UrxU",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T15:56:01.622Z"
+    },
+    {
+      "id": "h_1784044211211_j2xn",
+      "track": {
+        "id": "n_VrRuNkbrE",
+        "title": "Toh Phir Aao - 8K/4K Music Video | Awarapan | Emraan Hashmi Song | Mustafa Zahid | Pritam",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/n_VrRuNkbrE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCUJ2A_4gETaHgvy6r21n67z-fuw",
+        "duration": 350,
+        "youtubeId": "n_VrRuNkbrE",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T15:50:11.211Z"
+    },
+    {
+      "id": "h_1784043107887_422o",
+      "track": {
+        "id": "n_VrRuNkbrE",
+        "title": "Toh Phir Aao - 8K/4K Music Video | Awarapan | Emraan Hashmi Song | Mustafa Zahid | Pritam",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/n_VrRuNkbrE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCUJ2A_4gETaHgvy6r21n67z-fuw",
+        "duration": 350,
+        "youtubeId": "n_VrRuNkbrE",
+        "genre": "SonyMusicIndia"
+      },
+      "playedAt": "2026-07-14T15:31:47.887Z"
+    },
+    {
+      "id": "h_1784042940160_l21m",
+      "track": {
+        "id": "OTaYCjy9vXg",
+        "title": "A.R. Rahman - Radha Kaise Na Jale Best  Song|Lagaan|Aamir Khan|Asha Bhosle",
+        "artist": "SonyMusicIndia",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/OTaYCjy9vXg/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA-xKQEYr4jL9exo7fJcbgJsWPDJA",
+        "duration": 337,
+        "youtubeId": "OTaYCjy9vXg",
+        "genre": "radha"
+      },
+      "playedAt": "2026-07-14T15:29:00.160Z"
+    },
+    {
+      "id": "h_1784042902552_acp4",
+      "track": {
+        "id": "lTRiuFIWV54",
+        "title": "1 A.M Study Session 📚 [lofi hip hop]",
+        "artist": "Lofi Girl",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/lTRiuFIWV54/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCuxgfKd3IBiW7Ue2fmpm1ZjgOptQ",
+        "duration": 3674,
+        "youtubeId": "lTRiuFIWV54",
+        "genre": "Lofi"
+      },
+      "playedAt": "2026-07-14T15:28:22.552Z"
+    },
+    {
+      "id": "h_1783955258474_bwlt",
+      "track": {
+        "id": "7xeb0HiYi1w",
+        "title": "Nazar Na Lag Jaaye Full  | STREE | Rajkummar Rao, Shraddha Kapoor | Ash King & Sachin-Jigar",
+        "artist": "T-Series",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/7xeb0HiYi1w/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAptazKXIk-LiWqu26QdneLlPj9ag",
+        "duration": 207,
+        "youtubeId": "7xeb0HiYi1w",
+        "genre": "nazar"
+      },
+      "playedAt": "2026-07-13T15:07:38.474Z"
+    },
+    {
+      "id": "h_1783954887190_b4rp",
+      "track": {
+        "id": "7xeb0HiYi1w",
+        "title": "Nazar Na Lag Jaaye Full  | STREE | Rajkummar Rao, Shraddha Kapoor | Ash King & Sachin-Jigar",
+        "artist": "T-Series",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/7xeb0HiYi1w/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAptazKXIk-LiWqu26QdneLlPj9ag",
+        "duration": 207,
+        "youtubeId": "7xeb0HiYi1w",
+        "genre": "nazar"
+      },
+      "playedAt": "2026-07-13T15:01:27.190Z"
+    },
+    {
+      "id": "h_1783947968455_jjqt",
+      "track": {
+        "id": "xvT1jH8B9AM",
+        "title": "KALYANI (with Shreya Ghoshal) OFFICIAL MUSIC VIDEO | ARJN | KDS | FIFTY4 | RONN | SHREYA GHOSHAL |",
+        "artist": "MONEY VERSE RECORDS and ARJN",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/xvT1jH8B9AM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhmGO2cpvHBh_ggJa3uF5IQlxPIA",
+        "duration": 288,
+        "youtubeId": "xvT1jH8B9AM",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-13T13:06:08.455Z"
+    },
+    {
+      "id": "h_1783947775826_zrtt",
+      "track": {
+        "id": "ZXXLCaqOTsc",
+        "title": "Saiyaara Reprise Female Lyrics – Shreya Ghoshal",
+        "artist": "PlusMusicYT",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/ZXXLCaqOTsc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDIYOz8ZcrTv7l62okSWGjfvCO-uw",
+        "duration": 184,
+        "youtubeId": "ZXXLCaqOTsc",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-13T13:02:55.826Z"
+    },
+    {
+      "id": "h_1783947715742_e4o5",
+      "track": {
+        "id": "pGcbthDbU_k",
+        "title": "Shreya Ghoshal - Hasi |  Lyrical | Emraan Hashmi, Vidya Balan | Hamari Adhuri Kahani",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/pGcbthDbU_k/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC8MPLbszCQ1Y49btxImW96NSZ2mg",
+        "duration": 195,
+        "youtubeId": "pGcbthDbU_k",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-13T13:01:55.742Z"
+    },
+    {
+      "id": "h_1783947579354_i63c",
+      "track": {
+        "id": "pGcbthDbU_k",
+        "title": "Shreya Ghoshal - Hasi |  Lyrical | Emraan Hashmi, Vidya Balan | Hamari Adhuri Kahani",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/pGcbthDbU_k/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC8MPLbszCQ1Y49btxImW96NSZ2mg",
+        "duration": 195,
+        "youtubeId": "pGcbthDbU_k",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-13T12:59:39.354Z"
+    },
+    {
+      "id": "h_1783947574203_eii8",
+      "track": {
+        "id": "ZXXLCaqOTsc",
+        "title": "Saiyaara Reprise Female Lyrics – Shreya Ghoshal",
+        "artist": "PlusMusicYT",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/ZXXLCaqOTsc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDIYOz8ZcrTv7l62okSWGjfvCO-uw",
+        "duration": 184,
+        "youtubeId": "ZXXLCaqOTsc",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-13T12:59:34.203Z"
+    },
+    {
+      "id": "h_1783947538178_1s6i",
+      "track": {
+        "id": "eK0IIyBlYew",
+        "title": "Tera Zikr - Darshan Raval |  - Latest New Hit Song",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/eK0IIyBlYew/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9sHov5FRSBHJIT_oVGItonKnTdA",
+        "duration": 224,
+        "youtubeId": "eK0IIyBlYew",
+        "genre": "zikr"
+      },
+      "playedAt": "2026-07-13T12:58:58.178Z"
+    },
+    {
+      "id": "h_1783947531243_5kvr",
+      "track": {
+        "id": "eK0IIyBlYew",
+        "title": "Tera Zikr - Darshan Raval |  - Latest New Hit Song",
+        "artist": "Sony Music India",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/eK0IIyBlYew/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9sHov5FRSBHJIT_oVGItonKnTdA",
+        "duration": 224,
+        "youtubeId": "eK0IIyBlYew",
+        "genre": "zikr"
+      },
+      "playedAt": "2026-07-13T12:58:51.243Z"
+    },
+    {
+      "id": "h_1783947486164_q2nf",
+      "track": {
+        "id": "8PbIHTX8QZE",
+        "title": "Saiyaara Title Song | Full Song  | Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil",
+        "artist": "YRF Music",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/8PbIHTX8QZE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX_LlbcERDQaDHV0s3aMXI9N1PPg",
+        "duration": 370,
+        "youtubeId": "8PbIHTX8QZE",
+        "genre": "saiyara"
+      },
+      "playedAt": "2026-07-13T12:58:06.164Z"
+    },
+    {
+      "id": "h_1783947463950_vbcx",
+      "track": {
+        "id": "OB22VXM0TsY",
+        "title": "Haareya",
+        "artist": "Arijit Singh",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/OB22VXM0TsY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADuO666S2ZzetuCbaFCOiCCp8jDw",
+        "duration": 216,
+        "youtubeId": "OB22VXM0TsY",
+        "genre": "haareya"
+      },
+      "playedAt": "2026-07-13T12:57:43.950Z"
+    },
+    {
+      "id": "h_1783947453630_kplf",
+      "track": {
+        "id": "Zvp-VBmoPmI",
+        "title": "Ami Mishra, Shreya Ghoshal - Hasi (Female Version) ()",
+        "artist": "SonyMusicIndia",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/Zvp-VBmoPmI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqqL5n9Xl8HsGKb-3Sp82d8MQoKA",
+        "duration": 200,
+        "youtubeId": "Zvp-VBmoPmI",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-13T12:57:33.630Z"
+    },
+    {
+      "id": "h_1783947337074_ox6w",
+      "track": {
+        "id": "cpDyLJkhg0I",
+        "title": "Arijit Singh, White Noise Collectives, Amitabh Bhattacharya - Sitaare ()",
+        "artist": "SonyMusicIndia",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/cpDyLJkhg0I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0E_2g5BRcPj-1tN5akL6xZ-qX0w",
+        "duration": 246,
+        "youtubeId": "cpDyLJkhg0I",
+        "genre": "Arijit"
+      },
+      "playedAt": "2026-07-13T12:55:37.075Z"
+    },
+    {
+      "id": "h_1783947314395_11hu",
+      "track": {
+        "id": "Zvp-VBmoPmI",
+        "title": "Ami Mishra, Shreya Ghoshal - Hasi (Female Version) ()",
+        "artist": "SonyMusicIndia",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/Zvp-VBmoPmI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqqL5n9Xl8HsGKb-3Sp82d8MQoKA",
+        "duration": 200,
+        "youtubeId": "Zvp-VBmoPmI",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-13T12:55:14.395Z"
+    },
+    {
+      "id": "h_1783947299152_80zs",
+      "track": {
+        "id": "Zvp-VBmoPmI",
+        "title": "Ami Mishra, Shreya Ghoshal - Hasi (Female Version) ()",
+        "artist": "SonyMusicIndia",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/Zvp-VBmoPmI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqqL5n9Xl8HsGKb-3Sp82d8MQoKA",
+        "duration": 200,
+        "youtubeId": "Zvp-VBmoPmI",
+        "genre": "Shreya"
+      },
+      "playedAt": "2026-07-13T12:54:59.152Z"
+    },
+    {
+      "id": "h_1783940593634_8ojz",
+      "track": {
+        "id": "OB22VXM0TsY",
+        "title": "Haareya",
+        "artist": "Arijit Singh",
+        "album": "Aura Cloud Search",
+        "coverUrl": "https://i.ytimg.com/vi/OB22VXM0TsY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADuO666S2ZzetuCbaFCOiCCp8jDw",
+        "duration": 216,
+        "youtubeId": "OB22VXM0TsY",
+        "genre": "haareya"
+      },
+      "playedAt": "2026-07-13T11:03:13.634Z"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "YR12Z8f1Dh8",
+      "title": "3 - Why This Kolaveri Di  | Dhanush | Anirudh Ravichander | Shruti Haasan",
+      "artist": "Sony Music South",
+      "album": "Aura Cloud Search",
+      "coverUrl": "https://i.ytimg.com/vi/YR12Z8f1Dh8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZYggBlrTROikKhpGmU1bSzkC6sg",
+      "duration": 249,
+      "youtubeId": "YR12Z8f1Dh8",
+      "genre": "ya"
+    },
+    {
+      "id": "HQp0DwtTP18",
+      "title": "Saiyaara Lyrics - Tanishk Bagchi, Faheem Abdullah, Arslan Nizami • saiyara tu to badla nahi hai",
+      "artist": "Vibe Bird",
+      "album": "Aura Cloud Search",
+      "coverUrl": "https://i.ytimg.com/vi/HQp0DwtTP18/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqg69DkFASLfh6s5fYNC5Wa2xCrA",
+      "duration": 371,
+      "youtubeId": "HQp0DwtTP18",
+      "genre": "saiyara"
+    },
+    {
+      "id": "n9D9BH4bEdM",
+      "title": "Mere Angne Mein Tumhara Kya Kaam Hai (( Jhankar )) Mukesh, Amitabh Bachchan | Zeenat Aman",
+      "artist": "Mukesh",
+      "album": "Aura Cloud Search",
+      "coverUrl": "https://i.ytimg.com/vi/n9D9BH4bEdM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwcob3VXGKBziGgO1SVCGK6MVefQ",
+      "duration": 315.701,
+      "youtubeId": "n9D9BH4bEdM",
+      "genre": "mere"
+    },
+    {
+      "id": "OB22VXM0TsY",
+      "title": "Haareya",
+      "artist": "Arijit Singh",
+      "album": "Aura Cloud Search",
+      "coverUrl": "https://i.ytimg.com/vi/OB22VXM0TsY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADuO666S2ZzetuCbaFCOiCCp8jDw",
+      "duration": 216,
+      "youtubeId": "OB22VXM0TsY",
+      "genre": "haareya"
+    },
+    {
+      "id": "eK0IIyBlYew",
+      "title": "Tera Zikr - Darshan Raval |  - Latest New Hit Song",
+      "artist": "Sony Music India",
+      "album": "Aura Cloud Search",
+      "coverUrl": "https://i.ytimg.com/vi/eK0IIyBlYew/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9sHov5FRSBHJIT_oVGItonKnTdA",
+      "duration": 224,
+      "youtubeId": "eK0IIyBlYew",
+      "genre": "zikr"
+    },
+    {
+      "id": "BddP6PYo2Gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh",
+      "album": "Brahmastra",
+      "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&q=80",
+      "duration": 268,
+      "genre": "Bollywood / Pop",
+      "mood": "chill",
+      "youtubeId": "BddP6PYo2Gs"
+    },
+    {
+      "id": "fX41N940bMU",
+      "title": "Tu Hi Hai Aashiqui Lyrics - Arijit Singh , Palak Muchhal",
+      "artist": "Superhit Music",
+      "album": "Aura Cloud Search",
+      "coverUrl": "https://i.ytimg.com/vi/fX41N940bMU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IGYocjAP&rs=AOn4CLAr1J4I0x3EzcA3pKabdT5YO1Gu_A",
+      "duration": 339,
+      "youtubeId": "fX41N940bMU",
+      "genre": "Arijit"
+    },
+    {
+      "id": "8PbIHTX8QZE",
+      "title": "Saiyaara Title Song | Full Song  | Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil",
+      "artist": "YRF Music",
+      "album": "Aura Cloud Search",
+      "coverUrl": "https://i.ytimg.com/vi/8PbIHTX8QZE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX_LlbcERDQaDHV0s3aMXI9N1PPg",
+      "duration": 370,
+      "youtubeId": "8PbIHTX8QZE",
+      "genre": "saiyara"
+    }
+  ],
+  "settings": {
+    "darkMode": true,
+    "accentColor": "#FF2D55",
+    "audioQuality": "lossless",
+    "equalizerPreset": "Aura Perfect"
+  }
+}
