@@ -1,0 +1,338 @@
+@import "tailwindcss";
+
+/* ----------------------------------------------------
+   Apple Premium Light Theme Overrides
+   ---------------------------------------------------- */
+
+.light-theme {
+  color: #1d1d1f !important;
+}
+
+/* Sidebar Override */
+.light-theme aside#sidebar-layout {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  border-right: 1px solid rgba(0, 0, 0, 0.08) !important;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.02) !important;
+}
+
+.light-theme aside#sidebar-layout span {
+  color: #1d1d1f !important;
+}
+
+.light-theme aside#sidebar-layout button {
+  color: #515154 !important;
+}
+
+.light-theme aside#sidebar-layout button:hover {
+  background-color: rgba(0, 0, 0, 0.04) !important;
+  color: #000000 !important;
+}
+
+.light-theme aside#sidebar-layout button.bg-white\/10 {
+  background-color: rgba(0, 0, 0, 0.06) !important;
+  color: #000000 !important;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05) !important;
+}
+
+.light-theme aside#sidebar-layout .bg-white\/5 {
+  background-color: rgba(0, 0, 0, 0.03) !important;
+  border-color: rgba(0, 0, 0, 0.06) !important;
+}
+
+.light-theme aside#sidebar-layout .text-white {
+  color: #1d1d1f !important;
+}
+
+.light-theme aside#sidebar-layout .text-zinc-500 {
+  color: #86868b !important;
+}
+
+/* Page Headers & General Typography */
+.light-theme h1.text-white:not(.keep-white),
+.light-theme h1.text-zinc-100:not(.keep-white),
+.light-theme h2.text-white:not(.keep-white),
+.light-theme h3.text-white:not(.keep-white),
+.light-theme h3.text-zinc-100:not(.keep-white),
+.light-theme h4.text-white:not(.keep-white),
+.light-theme h4.text-zinc-100:not(.keep-white),
+.light-theme .text-white:not(.keep-white),
+.light-theme .text-zinc-100:not(.keep-white) {
+  color: #1d1d1f !important;
+}
+
+.light-theme .text-zinc-400:not(.keep-white),
+.light-theme .text-zinc-500:not(.keep-white),
+.light-theme .text-zinc-550:not(.keep-white) {
+  color: #6e6e73 !important;
+}
+
+.light-theme .text-zinc-300:not(.keep-white) {
+  color: #515154 !important;
+}
+
+/* Custom & General Card Overrides */
+.light-theme .bg-white\/5 {
+  background-color: #ffffff !important;
+  border-color: rgba(0, 0, 0, 0.06) !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.03) !important;
+}
+
+.light-theme .hover\:bg-white\/10:hover {
+  background-color: rgba(0, 0, 0, 0.02) !important;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05) !important;
+}
+
+.light-theme .border-white\/5,
+.light-theme .border-white\/10,
+.light-theme .border-white\/15 {
+  border-color: rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Mood Bento Box Grid Exceptions */
+/* Overrides removed to allow custom tailwind card gradients and text colors in light mode */
+
+
+/* Playlist Cover Overlay Grid */
+.light-theme .bg-white\/5.aspect-video img {
+  opacity: 0.03 !important;
+}
+
+/* Search Box Container */
+.light-theme form.bg-white\/5 {
+  background-color: #ffffff !important;
+  border-color: rgba(0, 0, 0, 0.12) !important;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.02) !important;
+}
+
+.light-theme form input {
+  color: #1d1d1f !important;
+}
+
+.light-theme form input::placeholder {
+  color: #86868b !important;
+}
+
+/* System Settings Panel specifics */
+.light-theme .grid.grid-cols-3 button.bg-white\/5 {
+  background-color: rgba(0, 0, 0, 0.03) !important;
+  border-color: transparent !important;
+  color: #515154 !important;
+}
+
+.light-theme .grid.grid-cols-3 button.bg-white\/5:hover {
+  background-color: rgba(0, 0, 0, 0.05) !important;
+  color: #1d1d1f !important;
+}
+
+.light-theme .grid.grid-cols-3 button.bg-white\/10 {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-color: rgba(0, 0, 0, 0.15) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
+}
+
+/* Dynamic Island Collapsed pill stays dark for premium physical look */
+#dynamic-island-pill {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  color: #ffffff !important;
+}
+
+#dynamic-island-pill span {
+  color: #ffffff !important;
+}
+
+/* Dynamic Island theme protection in Light Mode */
+.light-theme #dynamic-island-pill h4,
+.light-theme #dynamic-island-pill p,
+.light-theme #dynamic-island-pill button,
+.light-theme #dynamic-island-pill span {
+  color: inherit !important;
+}
+
+.light-theme #dynamic-island-pill .text-white {
+  color: #ffffff !important;
+}
+.light-theme #dynamic-island-pill .text-zinc-200 {
+  color: #e4e4e7 !important;
+}
+.light-theme #dynamic-island-pill .text-zinc-300 {
+  color: #d4d4d8 !important;
+}
+.light-theme #dynamic-island-pill .text-zinc-400 {
+  color: #a1a1aa !important;
+}
+
+
+/* Mini Player float panel on mobile */
+.light-theme .fixed.bottom-20 {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  border-color: rgba(0, 0, 0, 0.06) !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05) !important;
+}
+
+.light-theme .fixed.bottom-20 h4 {
+  color: #1d1d1f !important;
+}
+
+.light-theme .fixed.bottom-20 p {
+  color: #86868b !important;
+}
+
+.light-theme .fixed.bottom-20 button {
+  color: #515154 !important;
+}
+
+.light-theme .fixed.bottom-20 button:hover {
+  color: #000000 !important;
+}
+
+/* Standard desktop bottom player bar */
+.light-theme .fixed.bottom-0.z-\[400\] {
+  background-color: rgba(255, 255, 255, 0.85) !important;
+  border-top-color: rgba(0, 0, 0, 0.08) !important;
+  box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.03) !important;
+}
+
+.light-theme .fixed.bottom-0.z-\[400\] h4 {
+  color: #1d1d1f !important;
+}
+
+.light-theme .fixed.bottom-0.z-\[400\] p {
+  color: #86868b !important;
+}
+
+.light-theme .fixed.bottom-0.z-\[400\] button {
+  color: #515154 !important;
+}
+
+.light-theme .fixed.bottom-0.z-\[400\] button:hover {
+  color: #000000 !important;
+}
+
+/* Fixed Bottom Mobile Navigation Bar */
+.light-theme .fixed.bottom-0.z-\[450\] {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  border-top-color: rgba(0, 0, 0, 0.08) !important;
+  box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.02) !important;
+}
+
+.light-theme .fixed.bottom-0.z-\[450\] button {
+  color: #86868b !important;
+}
+
+.light-theme .fixed.bottom-0.z-\[450\] button span {
+  color: #86868b !important;
+}
+
+.light-theme .fixed.bottom-0.z-\[450\] button span.text-white {
+  color: #1d1d1f !important;
+}
+
+/* Playlists dialog creation modal sheet */
+.light-theme .bg-zinc-900\/90.backdrop-blur-2xl.w-full.max-w-md {
+  background-color: rgba(255, 255, 255, 0.98) !important;
+  border-color: rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15) !important;
+}
+
+.light-theme .bg-zinc-900\/90.backdrop-blur-2xl.w-full.max-w-md h3 {
+  color: #1d1d1f !important;
+}
+
+.light-theme .bg-zinc-900\/90.backdrop-blur-2xl.w-full.max-w-md input,
+.light-theme .bg-zinc-900\/90.backdrop-blur-2xl.w-full.max-w-md textarea {
+  background-color: rgba(0, 0, 0, 0.03) !important;
+  border-color: rgba(0, 0, 0, 0.06) !important;
+  color: #1d1d1f !important;
+}
+
+.light-theme .bg-zinc-900\/90.backdrop-blur-2xl.w-full.max-w-md input:focus,
+.light-theme .bg-zinc-900\/90.backdrop-blur-2xl.w-full.max-w-md textarea:focus {
+  border-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.light-theme .bg-zinc-900\/90.backdrop-blur-2xl.w-full.max-w-md button.bg-white\/5 {
+  background-color: rgba(0, 0, 0, 0.04) !important;
+  color: #515154 !important;
+}
+
+.light-theme .bg-zinc-900\/90.backdrop-blur-2xl.w-full.max-w-md button.bg-white\/5:hover {
+  background-color: rgba(0, 0, 0, 0.08) !important;
+  color: #1d1d1f !important;
+}
+
+/* Loved songs headers scrollbar scroll indicator custom override */
+.scrollbar-thin::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+
+.scrollbar-track-transparent::-webkit-scrollbar-track {
+  background: transparent !important;
+}
+
+.scrollbar-thumb-zinc-800::-webkit-scrollbar-thumb {
+  background-color: #27272a !important;
+  border-radius: 10px !important;
+}
+
+.light-theme .scrollbar-thumb-zinc-800::-webkit-scrollbar-thumb {
+  background-color: #d1d1d6 !important;
+}
+
+/* Glass notifications toast alerts */
+.light-theme .bg-black\/85 {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+  border-color: rgba(0, 0, 0, 0.08) !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08) !important;
+}
+
+.light-theme .bg-black\/85 p {
+  color: #1d1d1f !important;
+}
+
+/* ----------------------------------------------------
+   Spin slow smooth animations for disc vinyl records
+   ---------------------------------------------------- */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 20s linear infinite;
+}
+
+.animation-paused {
+  animation-play-state: paused !important;
+}
+
+/* Hide scrollbar utility class */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* Equalizer bounce animation for queue list */
+@keyframes bounce-slow {
+  0%, 100% {
+    transform: scaleY(0.3);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
+.animate-bounce-slow {
+  animation: bounce-slow 1.2s ease-in-out infinite;
+  transform-origin: bottom;
+}
+
+
